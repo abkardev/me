@@ -281,6 +281,7 @@ footer p {
         width: 100%;
         transform: translateX(100%);
         transition: transform 0.5s ease-in;
+        z-index: 3;
     }
     .nav-menu .nav-link {
         opacity: 0;
@@ -325,6 +326,7 @@ footer p {
         width: 100%;
         transform: translateX(100%);
         transition: transform 0.5s ease-in;
+        z-index: 3;
     }
     .nav-menu .nav-link {
         opacity: 0;
