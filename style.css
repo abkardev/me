@@ -302,6 +302,11 @@ footer p {
     .nav-menu {
         width: 100%;
     }
+ .hero-text a {
+        padding: 20px 10px;
+        text-align: center;
+        width: 200px;
+    }
 }
 
 @media (max-width:650px) {
@@ -334,6 +339,11 @@ footer p {
     }
     .portfolio-img a {
         width: 90%;
+    }
+ .hero-text a {
+        padding: 20px 10px;
+        text-align: center;
+        width: 200px;
     }
 }
 
